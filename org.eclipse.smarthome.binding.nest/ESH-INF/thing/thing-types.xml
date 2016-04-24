@@ -3,8 +3,6 @@
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns:thing="http://eclipse.org/smarthome/schemas/thing-description/v1.0.0"
         xsi:schemaLocation="http://eclipse.org/smarthome/schemas/thing-description/v1.0.0 http://eclipse.org/smarthome/schemas/thing-description-1.0.0.xsd">
-
-    <!-- Sample Thing Type -->
     <thing-type id="thermostat">
         <label>Nest Thermostat</label>
         <description>Binding for the Nest thermostat</description>
@@ -21,5 +19,4 @@
         <category>Temperature</category>
         <state readOnly="false" pattern="%.1f C" />
     </channel-type>
-
 </thing:thing-descriptions>
