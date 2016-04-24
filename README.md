@@ -1,5 +1,5 @@
 # building-iot
-Source code for the building IoT conference 2016
+Source code for the building IoT conference 2016. See [here](http://www.buildingiot.de/veranstaltung-4984-die-leichtigkeit-des-seins%3A-bindings-f%C3%BCr-eclipse-smarthome-entwickeln.html?id=4984).
 
 ## Before you start
 
