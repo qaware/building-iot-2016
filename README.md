@@ -3,7 +3,7 @@ Source code for the building IoT conference 2016. See [here](http://www.building
 
 ## Before you start
 
-* Create an OAuth access token for the Nest webservice and write it in NestBindingConstants.java. Otherwise the binding will not work!
+* Create an OAuth access token for the Nest webservice and write it in [NestBindingConstants.java](https://github.com/phxql/building-iot/blob/master/org.eclipse.smarthome.binding.nest/src/main/java/org/eclipse/smarthome/binding/nest/NestBindingConstants.java). Otherwise the binding will not work!
 
 ## Building
 
